@@ -1,13 +1,14 @@
 {
 	"songs": [
-		["eye-to-eye", "fake_bf", [165, 0, 77]]
+		["eye-to-eye", "", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
 		"",
 		"bf",
-	],.     "fake_bf",
-	"weekBackground": "cave",
+		"fake_bf"
+	],
+	"weekBackground": "stage",
 
 	"storyName": "",
 	"weekBefore": "tutorial",
